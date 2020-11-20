@@ -1,5 +1,7 @@
 ## Bienvenido
 ### Actividad 1
+> No temo a los ordenadores; lo que temo es quedarme sin ellos  — Isaac Asimov
+
 Este es un ejemplo de texto para la activdad 1 y aquí podemos ver una lista:
  
 - Elemento 1
@@ -17,4 +19,4 @@ Una *lista* **enumerada** :
 2. Elemento 2
 3. Elemento 3
  
-> No temo a los ordenadores; lo que temo es quedarme sin ellos  — Isaac Asimov
+
